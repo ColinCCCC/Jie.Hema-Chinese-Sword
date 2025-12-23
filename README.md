@@ -2,6 +2,8 @@
 
 <img width="1421" height="491" alt="EFJB0R}MQE I0C%NX$`) 13" src="https://github.com/user-attachments/assets/2bc2c2e5-2e9e-4faf-8bca-452f003ac89c" />
 
+<img width="1026" height="708" alt="image" src="https://github.com/user-attachments/assets/45679597-235a-4ca7-8507-dce285bd860f" />
+
 ## 声明
 
 本项目遵循[MIT协议](https://mitsloan.mit.edu/licensing)，允许自由使用、复制、修改、合并、发布、分发和商业化。
