@@ -35,8 +35,8 @@
 *所需DXF/DWG文件及其对应厚度如下：*
 
 - 剑条【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/blade.DXF)
-- 剑首配件1【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight1.DXF)
-- 剑首配件2【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight2.DXF)
+- 剑首配件1【3mm】[weight1.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight1.DXF)
+- 剑首配件2【3mm】[weight2.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight2.DXF)
 
 #### 手柄打印
 
