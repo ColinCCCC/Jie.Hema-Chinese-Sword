@@ -10,7 +10,7 @@
 
 本项目为减伤体育用品设计，请勿用于违反法律法规用途。
 
-制作成品**无需用到任何工业设计专业知识**，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/tree/main?tab=readme-ov-file#%E6%88%90%E5%93%81%E5%88%B6%E4%BD%9C)进行制作。
+制作成品**无需用到任何工业设计专业知识**，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)进行制作。
 
 ## 成品数据
 
@@ -26,16 +26,17 @@
 
 ### 成品制作
 
-#### 剑条切割
+#### 剑条、剑首切割
 
 在淘宝等电商应用，搜索并查找提供**65Mn板材激光切割定制**服务的商家，按需选择合适的商品页面，并联系客服。
 
-为商家提供所需的**DXF文件或DWG文件**，按需求说明**切割的数量与厚度**，待商家报价后，支付并提供收货地址，即可等待切割成品送达。
+为商家提供所需的**DXF文件**，按需求说明**切割的数量与厚度**，待商家报价后，支付并提供收货地址，即可等待切割成品送达。
 
 *所需DXF/DWG文件及其对应厚度如下：*
 
-- 剑条【3mm】[blade.DXF](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/blade.DXF)
-- 剑条【3mm】[blade.DWG](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/blade.DWG)
+- 剑条【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/blade.DXF)
+- 剑首配件1【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight1.DXF)
+- 剑首配件2【3mm】[blade.DXF](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/weight2.DXF)
 
 #### 手柄打印
 
@@ -45,7 +46,7 @@
 
 *所需STL文件及其对应厚度如下：*
 
-- 剑柄（半边）[hdl.STL](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/hdl.STL)
+- 剑柄（半边）[hdl.STL](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword/blob/main/hdl.STL)
 
 #### 圆角与抛光
 
@@ -55,16 +56,12 @@
 
 #### 装配
 
-剑柄采用4个M6*14，杆径8的夹板螺母固定，请自行购置。
+剑柄采用2个M6*14，杆径8的夹板螺母固定，请自行购置。
+
+剑首采用1个M10*65全牙螺丝、2个M10*1.0细牙六角开槽螺母固定，请自行购置。
 
 ### 设计修改
 
 项目使用SOLIDWORKS2025进行设计，项目已附带所有原工程文件。
-
-*所有SLDPRT文件如下：*
-
-- 剑条 [blade.SLDPRT](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/blade.SLDPRT)
-
-- 剑柄（半边）[hdl.SLDPRT](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/hdl.SLDPRT)
 
 使用者可以在此基础上，按需求进行修改或再创作。
